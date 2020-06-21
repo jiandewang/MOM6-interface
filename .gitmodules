@@ -1,7 +1,7 @@
 [submodule "src/MOM6"]
 	path = src/MOM6
-	url = https://github.com/NOAA-EMC/MOM6
-	branch = dev/emc
+	url = https://github.com/jiandewang/MOM6
+	branch = feature/TEST-FMS202002 
 [submodule "src/mkmf"]
 	path = src/mkmf
 	url = https://github.com/NOAA-EMC/mkmf
